@@ -1,1 +1,16 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: #A014FF;
+  font-size: 100%;
+}
+
+.mayaExampleClass {
+  font-size: 300%;
+     background-color: #FF80F8;
+     font-family: helvetica;
+     border: 10px dotted #A9F3FF;
+     text-transform: uppercase;
+     letter-spacing: 15px;
+     transition: rotate(-30)deg;
+     text-shadow: length
+}
